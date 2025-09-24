@@ -1,24 +1,35 @@
-Replace `<your-org>` with your GitHub org or username.  
+# Spin (SPIN) – Jetton Token Assets
 
-- **Metadata Hosting:**  
-This repo is the canonical source for Spin’s metadata.  
-Wallets, explorers, and community tools should reference the JSON file here.  
-
----
-
-## 📜 License
-All assets in this repository are provided under the [MIT License](LICENSE) unless otherwise noted.  
-Logos and branding are trademarks of the Spin project team.  
+This repository contains the **official assets and metadata** for **Spin (SPIN)**, a Jetton token deployed on the TON blockchain.  
+Spin is a **community‑facing, payment‑optimized token** that complements the $THRL utility token on Solana.  
+Where $THRL powers infrastructure and minting, **Spin fuels participation, micro‑rewards, and viral growth** across TON’s Telegram‑native ecosystem.
 
 ---
 
-## 🤝 Contributing
-Community contributions are welcome. Please open an issue or submit a pull request for improvements.  
-For branding changes, submit proposals via PR for review by the Spin maintainers.  
+## 📌 Repository contents
+- **logo.png:** Official 256×256 transparent PNG logo for Spin
+- **metadata.json:** Jetton metadata file for wallets, explorers, and integrations
+- **README.md:** Project overview and integration notes
 
 ---
 
-## 📫 Contact
-- Project: [SOLer Coaster](https://solercoaster.io)  
-- Token: Spin (SPIN) on TON  
-- Maintainers: Spin Project Team  
+## 🌀 Token overview
+- **Jetton name:** Spin  
+- **Symbol:** SPIN  
+- **Decimals:** 9 (TON default)  
+- **Chain:** TON (The Open Network)  
+- **Role:** Community payments, rewards, and viral engagement  
+- **Complementary token:** $THRL (Solana) – infrastructure and minting  
+
+---
+
+## 🌍 Purpose
+- **Community payments:** Reward users for missions, referrals, and participation  
+- **Microtransactions:** Tipping, gated content, and creator rewards with low fees  
+- **Cross‑ecosystem utility:** Earn on TON, unlock perks on Solana  
+- **Viral growth:** Leverage Telegram‑native mechanics for rapid adoption  
+
+---
+
+## 🔧 Integration notes
+- **Logo URI (for Jetton metadata):**
